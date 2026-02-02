@@ -60,8 +60,8 @@
             </plugin>
             <plugin>
                 <groupId>org.apache.sling</groupId>
-                <artifactId>maven-sling-plugin</artifactId>
-                <version>2.3.4</version>
+                <artifactId>sling-maven-plugin</artifactId>
+                <version>2.4.2</version>
                 <configuration>
                     <slingUrl>http://localhost:8080/system/console</slingUrl>
                     <user>admin</user>
